@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1539062"
-     inkscape:cx="173.51049"
+     inkscape:cx="186.1788"
      inkscape:cy="727.98917"
      inkscape:document-units="px"
      inkscape:current-layer="layer8"
@@ -234,16 +234,165 @@
      inkscape:label="Text">
     <text
        xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="108.52944"
+       y="469.34509"
+       id="text7356"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="108.52944"
+         y="469.34509"
+         id="tspan7366"
+         style="text-align:start;text-anchor:start" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="128.15181"
+       y="442.47934"
+       id="text7430"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="128.15181"
+         y="442.47934"
+         id="tspan7432"
+         style="text-align:start;text-anchor:start"><tspan
+           x="128.15181"
+           y="442.47934"
+           style="font-size:15px;text-align:start;text-anchor:start"
+           id="tspan7434">Reduces the overall risk, </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="139.60689"
+         y="461.22934"
+         id="tspan7436"
+         style="text-align:start;text-anchor:start"><tspan
+           x="139.60689"
+           style="font-size:15px;text-align:start;text-anchor:start"
+           id="tspan7438">but not the threat, by </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="138.69868"
+         y="479.97934"
+         id="tspan7440"
+         style="text-align:start;text-anchor:start"><tspan
+           x="138.69868"
+           style="font-size:15px;text-align:start;text-anchor:start"
+           id="tspan7442"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8.8769531">reducing vulnerability</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="128.15181"
+         y="498.72934"
+         id="tspan7446"
+         style="text-align:start;text-anchor:start" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="Text 2">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="410.24344"
+       y="435.54587"
+       id="text7328"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="410.24344"
+         y="435.54587"
+         id="tspan7330"
+         style="text-align:start;text-anchor:start"><tspan
+           x="410.24344"
+           y="435.54587"
+           style="font-size:15px;text-align:start;text-anchor:start"
+           id="tspan7332">Reduces the risk by </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="386.36649"
+         y="454.29587"
+         id="tspan7334"
+         style="text-align:start;text-anchor:start"><tspan
+           x="386.36649"
+           y="454.29587"
+           style="font-size:15px;text-align:start;text-anchor:start"
+           id="tspan7336">containing the threat with </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="420.58524"
+         y="473.04587"
+         id="tspan7338"
+         style="text-align:start;text-anchor:start"><tspan
+           x="420.58524"
+           y="473.04587"
+           style="font-size:15px;text-align:start;text-anchor:start"
+           id="tspan7340">a counter threat</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Protection">
+    <text
+       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="182.73447"
-       y="382.46378"
+       y="398.06296"
        id="text4889"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4891"
          x="182.73447"
-         y="382.46378"
+         y="398.06296"
          style="font-size:20px">Protection</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Deterrence"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="428.05472"
+       y="398.06296"
+       id="text4889-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4891-6"
+         x="428.05472"
+         y="398.06296"
+         style="font-size:20px">Deterrence</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7278"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion7280"><rect
+           id="rect7282"
+           width="255.65335"
+           height="99.661476"
+           x="-204.52267"
+           y="294.06836" /></flowRegion><flowPara
+         id="flowPara7284"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-389.97968"
+       y="329.59985"
+       id="text7286"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7288"
+         x="-389.97968"
+         y="329.59985"
+         style="font-size:15px" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7290"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion7292"><rect
+           id="rect7294"
+           width="260.85309"
+           height="179.39066"
+           x="-413.37848"
+           y="392.86322" /></flowRegion><flowPara
+         id="flowPara7296"></flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Acceptance">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -256,17 +405,60 @@
          x="299.79242"
          y="314.45187"
          style="font-size:20px">Acceptance</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="Text 1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="428.05472"
-       y="382.46378"
-       id="text4889-5"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="412.31512"
+       y="234.49084"
+       id="text7342"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4891-6"
-         x="428.05472"
-         y="382.46378"
-         style="font-size:20px">Deterrence</tspan></text>
+         x="412.31512"
+         y="234.49084"
+         id="tspan7352"
+         style="text-align:start;text-anchor:start" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="218.61745"
+       y="250.95645"
+       id="text7390"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="218.61745"
+         y="250.95645"
+         id="tspan7392"
+         style="text-align:start;text-anchor:start"><tspan
+           x="218.61745"
+           y="250.95645"
+           style="font-size:15px;text-align:start;text-anchor:start"
+           id="tspan7394">Creates a safe operating environment </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="198.62233"
+         y="269.70645"
+         id="tspan7396"
+         style="text-align:start;text-anchor:start"><tspan
+           x="198.62233"
+           style="font-size:15px;text-align:start;text-anchor:start"
+           id="tspan7398">through consent, approval and cooperation </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="233.83717"
+         y="288.45645"
+         id="tspan7400"
+         style="text-align:start;text-anchor:start"><tspan
+           x="233.83717"
+           style="font-size:15px;text-align:start;text-anchor:start"
+           id="tspan7402"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4.7753906">from individuals and communities </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="218.61745"
+         y="307.20645"
+         id="tspan7406"
+         style="text-align:start;text-anchor:start" /></text>
   </g>
 </svg>
