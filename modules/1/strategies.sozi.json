@@ -3108,7 +3108,7 @@
     {
       "frameId": "frame5903",
       "title": "New frame",
-      "timeoutMs": 0,
+      "timeoutMs": 3000,
       "timeoutEnable": true,
       "transitionDurationMs": 1000,
       "showInFrameList": true,
@@ -3810,7 +3810,7 @@
     {
       "frameId": "frame9144",
       "title": "New frame",
-      "timeoutMs": 0,
+      "timeoutMs": 3000,
       "timeoutEnable": true,
       "transitionDurationMs": 1000,
       "showInFrameList": true,
@@ -4776,7 +4776,7 @@
   ],
   "elementsToHide": [],
   "selectedFrames": [
-    "frame9348"
+    "frame7299"
   ],
   "selectedLayers": [
     "layer1",
